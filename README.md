@@ -15,75 +15,74 @@ For this project you will assume the role of database administrator at a data an
 
 
 
-Find the settings in PostgreSQL (1 pts)
-
+Find the settings in PostgreSQL 
 ![Screenshot: ](img/1.png )
 
-Create an User (1 pts)
+Create an User 
 
 ![Screenshot: ](img/2.png )
 
-Create a Role (1 pts)
+Create a Role 
 
 ![Screenshot: ](img/3.png )
 
-Grant privileges to the role (2 pts)
+Grant privileges to the role 
 
 ![Screenshot: ](img/4.png )
 
-Grant role to an user (1 pts)
+Grant role to an user 
 
 ![Screenshot: ](img/5.png )
 
-Backup a database on PostgreSQL server (1 pts)
+Backup a database on PostgreSQL server 
 
 ![Screenshot: ](img/6.png )
 
-Restore MySQL server using a previous backup (1 pts)
+Restore MySQL server using a previous backup 
 
 ![Screenshot: ](img/7.png )
 
-Find the table data size (1 pts)
+Find the table data size 
 
 ![Screenshot: ](img/8.png )
 
-Baseline query performance (1 pts)
+Baseline query performance 
 
 ![Screenshot: ](img/9.png )
 
-Create an index. (1 pts)
+Create an index. 
 
 ![Screenshot: ](img/10.png )
 
-Document the improvement in query performance. (1 pts)
+Document the improvement in query performance.
 
 ![Screenshot: ](img/11.png )
 
-Find supported storage engines (1 pts)
+Find supported storage engines 
 
 ![Screenshot: ](img/12.png )
 
-Find the storage engine of a table (1 pts)
+Find the storage engine of a table 
 
 ![Screenshot: ](img/13.png )
 
-Restore the table billing. (2 pts)
+Restore the table billing.
 
 ![Screenshot: ](img/14.png )
 
-Create a view named basicbilldetails with the columns customerid, month, billedamount. (1 pts)
+Create a view named basicbilldetails with the columns customerid, month, billedamount.
 
 ![Screenshot: ](img/15.png )
 
-Baseline query performance. (1 pts)
+Baseline query performance.
 
 ![Screenshot: ](img/16.png )
 
-Create an index. (1 pts)
+Create an index. 
 
 ![Screenshot: ](img/17.png )
 
-Document the improvement in query performance. (1 pts)
+Document the improvement in query performance.
 
 ![Screenshot: ](img/18.png )
 
